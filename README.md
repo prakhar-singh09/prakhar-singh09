@@ -2,6 +2,7 @@
 Hi👋,<br>I am Prakhar Singh. I'm a pre-final B.Tech student at the GL Bajaj Institute of Technology & Management. <br>I am an avid learner of technologies and domains,<br>🔭I am currently learning<br>Android development using Flutter, Full Stack Developer and Data Structures & Algorithms with a primary language as C++17. 
 
 <img src="https://komarev.com/ghpvc/?username=intensifyprakhar&label=Profile%20views&color=0e75b6&style=plastic" alt="intensifyprakhar" />
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/intensifyprakhar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/intensifyprakhar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/intensifyprakha) 
 
