@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,<br>I am Prakhar Singh. I'm a pre-final B.Tech student at the GL Bajaj Institute of Technology & Management. <br>I am an avid learner of technologies and domains,<br>I am currently learning<br>Android development using Flutter, Full Stack Developer and Data Structures & Algorithms with a primary language as C++17. 
+Hi👋,<br>I am Prakhar Singh. I'm a pre-final B.Tech student at the GL Bajaj Institute of Technology & Management. <br>I am an avid learner of technologies and domains,<br>🔭I am currently learning<br>Android development using Flutter, Full Stack Developer and Data Structures & Algorithms with a primary language as C++17. 
 
 
 ## 🌐 Socials:
