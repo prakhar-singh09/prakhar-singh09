@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://intensifyprakhar.netlify.app/" target="blank">
 Prakhar Singh</a></h1>
-<h3 align="center">A passionate Software Developer &#127470;&#127475</h3>
+<h3 align="center">A Front-End Developer &#127470;&#127475</h3>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=intensifyprakhar&label=Profile%20views&color=0047AB&style=plastic?" alt="intensifyprakhar" height=25px, width=160px/> 
@@ -27,6 +27,11 @@ Prakhar Singh</a></h1>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/13CMa_3Qm8uGOIaAF3M_Dh-nsr2-mpTxi/view?usp=share_link" target="blank">Resume</a>
 <br/>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+![intensifyprakhar snake gif](https://github.com/intensifyprakhar/intensifyprakhar/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -43,8 +48,4 @@ Prakhar Singh</a></h1>
       </div>
 
 </p>
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-![intensifyprakhar snake gif](https://github.com/intensifyprakhar/intensifyprakhar/blob/output/github-contribution-grid-snake.svg)
 
