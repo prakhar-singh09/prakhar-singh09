@@ -24,4 +24,3 @@ Hi👋,<br>I am Prakhar Singh. I'm a pre-final B.Tech student at the GL Bajaj In
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
