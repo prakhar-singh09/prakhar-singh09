@@ -4,26 +4,25 @@ Prakhar Singh</a></h1>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=intensifyprakhar&label=Profile%20views&color=0047AB&style=plastic?" alt="intensifyprakhar" height=25px, width=160px/> 
-
 </p>
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently pre-final year student at <a href="https://www.glbitm.org//" target="blank">GL Bajaj Institute of technology and Management</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on MERN stack.
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Flutter.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I'm also doing Data Structures & Algorithms with C++ 
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Reactjs**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **singhprakhar359@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
