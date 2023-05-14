@@ -5,7 +5,7 @@ Prakhar Singh</a></h1>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=intensifyprakhar&label=Profile%20views&color=0047AB&style=plastic?" alt="intensifyprakhar" height=25px, width=160px/> 
 </p>
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
