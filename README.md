@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://intensifyprakhar.netlify.app/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://intensifyprakhar.netlify.app/" target="_blank">
 Prakhar Singh</a></h1>
 <h3 align="center">A Front-End Developer &#127470;&#127475</h3>
 
@@ -11,7 +11,7 @@ Prakhar Singh</a></h1>
 
 </div>
 
-- 🔭 I’m pre-final year student at <a href="https://www.glbitm.org//" target="blank">GLBITM</a>, Greater Noida
+- 🔭 I’m pre-final year student at <a href="https://www.glbitm.org//" target="_blank">GLBITM</a>, Greater Noida
 
 - 🌱 I’m currently Working on MERN stack.
 
@@ -21,11 +21,11 @@ Prakhar Singh</a></h1>
 
 - 📝 I'm also doing Data Structures & Algorithms with C++.
 
-- 💬 Connect with Me on <a href="https://www.linkedin.com/in/intensifyprakhar/" target="blank">LinkedIn</a>
+- 💬 Connect with Me on <a href="https://www.linkedin.com/in/intensifyprakhar/" target="_blank">LinkedIn</a>
 
 - 📫 How to reach me **singhprakhar359@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/13CMa_3Qm8uGOIaAF3M_Dh-nsr2-mpTxi/view?usp=share_link" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/13CMa_3Qm8uGOIaAF3M_Dh-nsr2-mpTxi/view?usp=share_link" target="_blank">Resume</a>
 <br/>
 
 ## 🐍 A Snake Eating my Contributions Graph
