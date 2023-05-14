@@ -4,7 +4,7 @@ Prakhar Singh</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intensifyprakhar&label=Profile%20views&color=0e75b6&style=flat" alt="intensifyprakhar" /> </p>
 
-<p align="left"> <a href="https://instagram.com/intensifyprakhar" target="blank"><img src="https://img.shields.io/instagram/follow/intensifyprakhar?logo=twitter&style=for-the-badge" alt="intensifyprakhar" /></a> </p>
+<p align="left"> <a href="https://instagram.com/intensifyprakhar" target="blank"><img src="https://img.shields.io/instagram/follow/intensifyprakhar?logo=instagram&style=for-the-badge" alt="intensifyprakhar" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
