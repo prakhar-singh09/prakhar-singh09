@@ -25,7 +25,7 @@ Prakhar Singh</a></h1>
 
 - 📫 How to reach me **singhprakhar359@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/13CMa_3Qm8uGOIaAF3M_Dh-nsr2-mpTxi/view?usp=sharing" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/13CMa_3Qm8uGOIaAF3M_Dh-nsr2-mpTxi/view?usp=share_link" target="_blank">Resume</a>
 <br/>
 
 ## 🐍 A Snake Eating my Contributions Graph
