@@ -32,6 +32,12 @@ Prakhar Singh</a></h1>
 	
 ![intensifyprakhar snake gif](https://github.com/intensifyprakhar/intensifyprakhar/blob/output/github-contribution-grid-snake.svg)
 
+&nbsp;
+# 📊 LeetCode Stats:
+<div style="display: flex; flex-direction: row;">
+ <img src="https://leetcard.jacoblin.cool/prolion1?ext=contest" height="350px">
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=intensifyprakhar&theme=dark&hide_border=false)<br/>
 
