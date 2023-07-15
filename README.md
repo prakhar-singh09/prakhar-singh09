@@ -15,8 +15,6 @@ Prakhar Singh</a></h1>
 
 - 🌱 I’m currently Working on MERN stack.
 
-- 🌱 I’m currently learning Flutter.
-
 - 🤝 I'm availble for freelancing.
 
 - 📝 I'm also doing Data Structures & Algorithms with C++.
