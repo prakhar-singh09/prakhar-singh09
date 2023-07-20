@@ -27,11 +27,6 @@ Prakhar Singh</a></h1>
 <br/>
 &nbsp;
 
-# 📊 LeetCode Stats:
-<div style="display: flex; flex-direction: row;">
- <img src="https://leetcard.jacoblin.cool/prolion1?ext=contest" height="350px">
-</div>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=intensifyprakhar&theme=dark&hide_border=false)<br/>
 
