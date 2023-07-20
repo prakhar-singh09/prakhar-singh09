@@ -25,11 +25,6 @@ Prakhar Singh</a></h1>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/13CMa_3Qm8uGOIaAF3M_Dh-nsr2-mpTxi/view?usp=share_link" target="_blank">Resume</a>
 <br/>
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-![intensifyprakhar snake gif](https://github.com/intensifyprakhar/intensifyprakhar/blob/output/github-contribution-grid-snake.svg)
-
 &nbsp;
 # 📊 LeetCode Stats:
 <div style="display: flex; flex-direction: row;">
