@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://prakhar-singh.netlify.app/" target="_blank">
-Prakhar Singh</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://prakhar-singh.netlify.app/" target="_blank">Prakhar Singh</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 
-<h3 align="center">A Front-End Developer &#127470;&#127475</h3>
+<h3 align="center">A Front-End Developer &#127470; &#127475</h3>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=intensifyprakhar&label=Profile%20views&color=0047AB&style=plastic?" alt="intensifyprakhar" height=25px, width=160px/> 
