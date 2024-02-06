@@ -13,7 +13,7 @@
 
 - 🔭 I’m pre-final year student at <a href="https://www.glbitm.org//" target="_blank">GLBITM</a>, Greater Noida
 
-- 🌱 I’m currently Working on MERN stack and Flutter Development.
+- 🌱 I’m currently Working on MERN stack.
 
 - 🤝 I'm availble for freelancing.
 
