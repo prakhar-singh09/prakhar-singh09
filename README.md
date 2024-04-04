@@ -17,7 +17,7 @@
 
 - 🤝 I'm availble for freelancing.
 
-- 📝 I'm also doing Data Structures & Algorithms with C++.
+- 📝 Deep Deleving into DSA, having Knight Badge in LeetCode, 3 Star in CodeChef.
 
 - 💬 Connect with Me on <a href="https://www.linkedin.com/in/prakhar-singh09/" target="_blank">LinkedIn</a>
 
