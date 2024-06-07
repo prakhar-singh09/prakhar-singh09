@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **singhprakhar359@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1SwM1SfAYBThRPjPASEqA871v9ynxsJAP/view?usp=share_link" target="_blank">Resume</a>
-<br/>
 &nbsp;
 
 # 📊 GitHub Stats:
