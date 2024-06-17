@@ -17,7 +17,7 @@
 
 - 🤝 I'm availble for freelancing.
 
-- 📝 Talk me about JavaScript.
+- 📝 Talk to me about JavaScript.
 
 - 💬 Connect with Me on <a href="https://www.linkedin.com/in/prakhar-singh09/" target="_blank">LinkedIn</a>
 
