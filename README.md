@@ -11,13 +11,13 @@
 
 </div>
 
-- 🔭 I’m pre-final year student at <a href="https://www.glbitm.org//" target="_blank">GLBITM</a>, Greater Noida
+- 🔭 I’m Final year student at <a href="https://www.glbitm.org//" target="_blank">GLBITM</a>, Greater Noida
 
-- 🌱 I’m currently Working on MERN stack.
+- 🌱 I’m currently Working on MERN stack and Generative AI.
 
 - 🤝 I'm availble for freelancing.
 
-- 📝 Deep Deleving into DSA, having Knight Badge in LeetCode, 3 Star in CodeChef.
+- 📝 Talk me about JavaScript.
 
 - 💬 Connect with Me on <a href="https://www.linkedin.com/in/prakhar-singh09/" target="_blank">LinkedIn</a>
 
