@@ -11,7 +11,7 @@
 
 </div>
 
-- 🔭 I’m Full Stack Web Developer.
+- 🔭 I’m a Full Stack Web Developer.
 
 - 🌱 I’m working professional as Associate Software Engineer.
 
