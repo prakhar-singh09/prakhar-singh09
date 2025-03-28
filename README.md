@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://prakhar-singh.netlify.app/" target="_blank">Prakhar Singh</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 
-<h3 align="center">A Front-End Developer &#127470; &#127475</h3>
+<h3 align="center">A Full Stack Developer &#127470; &#127475</h3>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=intensifyprakhar&label=Profile%20views&color=0047AB&style=plastic?" alt="intensifyprakhar" height=25px, width=160px/> 
@@ -11,13 +11,13 @@
 
 </div>
 
-- 🔭 I’m Final year student at <a href="https://www.glbitm.org//" target="_blank">GLBITM</a>, Greater Noida
+- 🔭 I’m Full Stack Web Developer.
 
-- 🌱 I’m currently Working on MERN stack and Generative AI.
+- 🌱 I’m Associate Software Engineer at Cyfuture India Pvt Ltd.
 
 - 🤝 I'm availble for freelancing.
 
-- 📝 Talk to me about JavaScript.
+- 📝 Talk to me about JavaScript, Backend, APIs, Scalable Systems.
 
 - 💬 Connect with Me on <a href="https://www.linkedin.com/in/prakhar-singh09/" target="_blank">LinkedIn</a>
 
