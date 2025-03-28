@@ -13,9 +13,9 @@
 
 - 🔭 I’m Full Stack Web Developer.
 
-- 🌱 I’m Associate Software Engineer.
+- 🌱 I’m working professional as Associate Software Engineer.
 
-- 🤝 I'm availble for freelancing.
+- 🤝 I'm available for freelancing.
 
 - 📝 Talk to me about JavaScript, Backend, APIs, Scalable Systems.
 
