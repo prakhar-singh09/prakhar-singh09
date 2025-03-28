@@ -13,7 +13,7 @@
 
 - 🔭 I’m Full Stack Web Developer.
 
-- 🌱 I’m Associate Software Engineer at Cyfuture India Pvt Ltd.
+- 🌱 I’m Associate Software Engineer.
 
 - 🤝 I'm availble for freelancing.
 
